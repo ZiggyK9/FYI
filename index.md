@@ -1,1 +1,5 @@
-# ziggy.fyi
+---
+title: Ziggy
+layout: default
+---
+# {{ page.title }}
